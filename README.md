@@ -9,7 +9,7 @@ The code is developed and maintained by Massimo Guarascio, Gianlugi Folino and N
 
 ## Video demonstration
 A video demonstration of the capabilities of EBIDS, its integration with a MISP Network and cooperation with other Security Tools is provided in the sub-folder "Video_Demonstration".
-[Direct Link](https://drive.google.com/file/d/197Vjl2LPmhMkv9oB7OlKwTZ0ayExLaQ7/view)
+[Direct link](https://drive.google.com/file/d/197Vjl2LPmhMkv9oB7OlKwTZ0ayExLaQ7/view) here.
 
 # References
 [1] F. Folino, G. Folino, M. Guarascio, F.S. Pisani, L. Pontieri. On learning effective ensembles of deep neural networks for intrusion detection. Information Fusion, 2021. doi: https://doi.org/10.1016/j.inffus.2021.02.007
