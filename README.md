@@ -9,7 +9,11 @@ The code is developed and maintained by Massimo Guarascio, Gianlugi Folino and N
 
 ## Video demonstration
 A video demonstration of the capabilities of EBIDS, its integration with the TIP (a MISP Network) and cooperation with other security tools (E.g., [NetGen](https://github.com/daniele-canavese/netgen)) is provided in the sub-folder "Video_Demonstration".
-Direct link [here](https://drive.google.com/file/d/197Vjl2LPmhMkv9oB7OlKwTZ0ayExLaQ7/view).
+Direct link [here](https://github.com/massimo-guarascio/cs4e_ebids_asset/tree/main/Video_Demonstration).
+<!---
+old video link
+https://drive.google.com/file/d/197Vjl2LPmhMkv9oB7OlKwTZ0ayExLaQ7/view
+-->
 
 # References
 [1] F. Folino, G. Folino, M. Guarascio, F.S. Pisani, L. Pontieri. On learning effective ensembles of deep neural networks for intrusion detection. Information Fusion, 2021. doi: https://doi.org/10.1016/j.inffus.2021.02.007
