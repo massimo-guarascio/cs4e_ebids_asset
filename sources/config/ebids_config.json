@@ -1,0 +1,25 @@
+{
+  "ebids_application": {
+    "base": {
+      "normal_tuples_percentage_extraction": 10,
+      "anomaly_threshold": 0.75,
+      "misp_url": "https://your.mist.instance",
+      "misp_key": "YourMISPkey",
+      "testset_pcap_folder_path": "ebids_files/in/testset_pcap",
+      "testset_csv_folder_path": "ebids_files/in/testset_csv",
+      "data_path": "ebids_files/dataset",
+      "model_folder_path": "ebids_files/out/model/",
+      "maximum_threat" : 3000,
+      "delim" : ",",
+      "decimal" : "."
+    },
+    "mysql": {
+      "host": "localhost",
+      "user": "user",
+      "password": "password",
+      "database": "pcap_db"
+    }
+  },
+  "ebids_learning": {},
+  "ebids_importer": {}
+}
